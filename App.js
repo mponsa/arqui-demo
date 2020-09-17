@@ -17,7 +17,7 @@ export default function App() {
         </View>
         <View style={styles.cardContainer}>
           <Text style={styles.headerText}>Vamos a demostrar un flujo de CI/CD con Circle-CI:</Text>
-          <TouchableOpacity onPress={pressFunction} style={styles.button}><Text style={styles.buttonText}>Press me!</Text></TouchableOpacity>
+          
         </View>
       <StatusBar style="auto" />
     </View>
